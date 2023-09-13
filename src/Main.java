@@ -8,7 +8,7 @@ public class Main {
 
         System.out.println("Please enter your age:");
         age = scanner.nextInt();
-        scanner.nextLine(); // Consume the remaining newline character
+        scanner.nextLine();
 
         System.out.println("Please enter your first name:");
         firstName = scanner.nextLine();
